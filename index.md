@@ -12,9 +12,9 @@ Doctoral student at Nagoya University.
 
 Coming soon.
 
-## Notes
+## Links
 
-Coming soon.
+- [Technical notes / 技術メモ](notes.md)
 
 
 ## Contact
